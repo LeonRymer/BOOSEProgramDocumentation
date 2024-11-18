@@ -14,6 +14,26 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.BOOSEForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.BOOSEForm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ASEAssignment.Form1.yml",
       "output": {
         ".html": {
