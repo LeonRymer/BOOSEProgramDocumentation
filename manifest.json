@@ -4,6 +4,16 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ASEAssignment.AppCanvas.yml",
       "output": {
         ".html": {
@@ -18,6 +28,56 @@
       "output": {
         ".html": {
           "relative_path": "api/ASEAssignment.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppIf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppIf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppParser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASEAssignment.AppWhile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASEAssignment.AppWhile.html"
         }
       },
       "version": ""
